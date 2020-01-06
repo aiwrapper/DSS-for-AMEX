@@ -1,6 +1,4 @@
-# DSS-for-AMEX
-Data Science Solutions for American Express
-
+# Data Science Solutions for American Express
 
 The project was made for the DSS Hackathon
 
